@@ -11,3 +11,4 @@ Ubuntu Desktop para DHCP,DNS, Streama, MySQL configurado y LDAP Manager.
 Windows 10 para comprobar a nivel de usuario y/o diferentes roles
 Python para automatizar diferentes tareas diarias
 Dichas máquinas virtuales corridas en un VirtualBox
+WordPress en la Red para alojar la página web y llevarla al exterior
