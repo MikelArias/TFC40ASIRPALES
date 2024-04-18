@@ -21,4 +21,5 @@ Modelo Relacional
 
 
 
-<img width="432" alt="Modelo relacionas" src="https://github.com/MikelArias/TFC40ASIRPALES/assets/115534269/11ad30bc-be67-4ebc-b4c7-71b36b457f40">
+<img width="562" alt="Modelo Relacional" src="https://github.com/MikelArias/TFC40ASIRPALES/assets/115534269/fc00be03-f448-435b-b473-6c24dbfc5ebb">
+
