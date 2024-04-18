@@ -4,7 +4,7 @@
 Los 40 Asirpales
 
 # 2.Integrantes del proyecto
-Realizado por Mikel Arias y Adrián Suárez Medina
+Realizado por Mikel Arias Montiel y Adrián Suárez Medina
 
 # 3.Descripción del Proyecto
 Consiste en un proyecto que albergará una radio creada con IceCast2, Una base de datos dónde se añadirán las canciones en nuestra lista y se mostrará en una página Web de Wordpress,
