@@ -17,3 +17,5 @@ Dichas máquinas virtuales corridas en un VirtualBox
 
 WordPress en la Red para alojar la página web y llevarla al exterior
 
+Modelo Relacional 
+<img width="432" alt="Modelo relacionas" src="https://github.com/MikelArias/TFC40ASIRPALES/assets/115534269/11ad30bc-be67-4ebc-b4c7-71b36b457f40">
