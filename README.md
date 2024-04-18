@@ -25,5 +25,6 @@ WordPress en la Red para alojar la página web y llevarla al exterior
 
 
 
-<img width="562" alt="Modelo Relacional" src="https://github.com/MikelArias/TFC40ASIRPALES/assets/115534269/fc00be03-f448-435b-b473-6c24dbfc5ebb">
+<img width="493" alt="Modelo Relacional" src="https://github.com/MikelArias/TFC40ASIRPALES/assets/115534269/a59cbb0b-99c0-442a-8518-25fc8a580cdb">
+
 
