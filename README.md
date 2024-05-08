@@ -48,3 +48,8 @@ https://portforward.com/icecast/
 https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6
 # 13. Bibliografía utilizada 
 Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
+
+
+# Video de la revisión
+
+
