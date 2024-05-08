@@ -20,10 +20,25 @@ Dichas máquinas virtuales corridas en un VirtualBox
 
 WordPress en la Red para alojar la página web y llevarla al exterior
 
-# 5.Esquema del modelo relacional 
+# 5.Objetivos del proyecto.
+Objetivo es crear una radio online escuchable para todo el mundo y una página web con contenido de música.
+
+# 6.Esquema del modelo relacional 
 
 
 
 <img width="493" alt="Modelo Relacional" src="https://github.com/MikelArias/TFC40ASIRPALES/assets/115534269/a59cbb0b-99c0-442a-8518-25fc8a580cdb">
 
 
+# 12. Bitácora de tareas realizadas donde se indique la fecha en que se completó cada una de ellas y qué miembro del grupo la llevó a cabo
+Versión 1.0 24/4/2024
+Creación del Documento (Mikel)
+Creación de la Máquina Ubuntu Desktop (Servidor) (Mikel)
+Instalación DHCP (Adrián)
+Instalación DNS  (Adrián)
+
+Versión 2.0 08/05/2024
+
+
+# 13. Bibliografía utilizada 
+Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
