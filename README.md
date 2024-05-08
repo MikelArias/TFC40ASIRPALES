@@ -53,3 +53,9 @@ Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
 # Video de la revisión
 
 
+
+
+
+# Máquina exportada en .ova
+https://drive.google.com/file/d/1Y7vqxbbRoH7N_IsLO2jen9oaoj5vf7Gi/view?usp=sharing
+
