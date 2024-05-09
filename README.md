@@ -51,7 +51,7 @@ Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
 
 
 # Video de la revisión
-
+https://youtu.be/A-Q4L9_P5ZQ
 
 
 
