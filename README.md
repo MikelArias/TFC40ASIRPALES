@@ -42,10 +42,16 @@ Instalación Icecast (Adrián)
 Configuración Icecast (Mikel)
 Hacer la radio pública (Mikel)
 
+Version 3.0 21/05/2024
+Instalación Wordpress 
+Instalación MariaDB
+Instalación LDAP Manager en el servidor Ubuntu
 Enlaces usados:
 Icecast Público (Reenvío de puertos)
 https://portforward.com/icecast/
 https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6
+Script Usado para instalar Wordpress de nuestro compañero Rafael
+https://github.com/r4f4soft/autowordpress
 # 13. Bibliografía utilizada 
 Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
 
