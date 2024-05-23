@@ -59,21 +59,14 @@ Objetivo es crear una radio online escuchable para todo el mundo y una página w
 
     Instalación LDAP Manager en el servidor Ubuntu
 
-Enlaces usados:
-
-Icecast Público (Reenvío de puertos)
-https://portforward.com/icecast/
-https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6
-
-Script Usado para instalar Wordpress de nuestro compañero Rafael
-https://github.com/r4f4soft/autowordpress
-
 # 13. Bibliografía utilizada 
-Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
-https://portforward.com/icecast/
-https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6
-Script Usado para instalar Wordpress de nuestro compañero Rafael
-https://github.com/r4f4soft/autowordpress
+
+- Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
+            https://portforward.com/icecast/
+            https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6
+
+- Script Usado para instalar Wordpress de nuestro compañero Rafael
+    https://github.com/r4f4soft/autowordpress
 
 # Video de la revisión
 https://youtu.be/A-Q4L9_P5ZQ
