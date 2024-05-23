@@ -33,31 +33,31 @@ Objetivo es crear una radio online escuchable para todo el mundo y una página w
 # 12. Bitácora de tareas realizadas donde se indique la fecha en que se completó cada una de ellas y qué miembro del grupo la llevó a cabo
 - Versión 1.0 24/4/2024
 
-Creación del Documento (Mikel)
+  Creación del Documento (Mikel)
 
-Creación de la Máquina Ubuntu Desktop (Servidor) (Mikel)
+  Creación de la Máquina Ubuntu Desktop (Servidor) (Mikel)
 
-Instalación DHCP (Adrián)
+  Instalación DHCP (Adrián)
 
-Instalación DNS  (Adrián)
+  Instalación DNS  (Adrián)
 
 - Versión 2.0 08/05/2024
 
-Instalación Icecast (Adrián)
+  Instalación Icecast (Adrián)
 
-Configuración Icecast (Mikel)
+  Configuración Icecast (Mikel)
 
-Hacer la radio pública (Mikel)
+  Hacer la radio pública (Mikel)
 
 - Version 3.0 21/05/2024
 
-Instalación Wordpress 
+  Instalación Wordpress 
 
-Instalación MariaDB
+  Instalación MariaDB
 
-Creación de Usuarios en Wordpress Server para uso laboral
+  Creación de Usuarios en Wordpress Server para uso laboral
 
-Instalación LDAP Manager en el servidor Ubuntu
+  Instalación LDAP Manager en el servidor Ubuntu
 
 Enlaces usados:
 Icecast Público (Reenvío de puertos)
