@@ -33,6 +33,7 @@ Objetivo es crear una radio online escuchable para todo el mundo y una página w
 
 
 # 12. Bitácora de tareas realizadas donde se indique la fecha en que se completó cada una de ellas y qué miembro del grupo la llevó a cabo
+
 - Versión 1.0 24/4/2024
 
     Creación del Documento (Mikel)
@@ -51,7 +52,7 @@ Objetivo es crear una radio online escuchable para todo el mundo y una página w
 
     Hacer la radio pública (Mikel)
 
-- Version 3.0 21/05/2024
+- Versión 3.0 21/05/2024
 
     Instalación Wordpress 
 
@@ -61,6 +62,16 @@ Objetivo es crear una radio online escuchable para todo el mundo y una página w
 
     Instalación LDAP Manager en el servidor Ubuntu
 
+- Versión 4.0 7/6/2024
+    Personalización de la página web
+    Página web puesta pública 
+    Finalización de la documentación
+
+- Versión 5.0 9/6/2024
+     Realización de la presentación
+     Realización del plan de seguridad
+     Realización de pruebas finales
+     Creación del script de python QoL
 # 13. Bibliografía utilizada 
 
 - Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
