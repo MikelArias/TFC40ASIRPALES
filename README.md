@@ -2,102 +2,101 @@
 <img width="493" alt="Logo" src="https://github.com/MikelArias/TFC40ASIRPALES/blob/main/Logo%20Asirpales.jpeg">
 
 
-# 1.Nombre del proyecto
+# 1.Name of the proyect
 Los 40 Asirpales
 
-# 2.Integrantes del proyecto
-Realizado por Mikel Arias Montiel y Adrián Suárez Medina
+# 2.Project members
+By Mikel Arias Montiel and Adrián Suárez Medina
 
-# 3.Descripción del Proyecto
-Consiste en un proyecto que albergará una radio creada con IceCast2, Una base de datos dónde se añadirán las canciones en nuestra lista y se mostrará en una página Web de Wordpress, para añadir canciones usaremos PHP con una interfaz de usuario y con conexión a la base de datos, también haremos un plan de seguridad para aumentar la seguridad de nuestra administración de la página, seguridad de la base de datos etc.
+# 3.Project Description
+It consists of a project that will host a radio created with IceCast2, A database where the songs in our list will be added and displayed on a Wordpress web page, to add songs we will use PHP with a user interface and connection to the database, we will also make a security plan to increase the security of our site administration, database security etc..
 
-# 4.Tecnologías a utilizar:
-Ubuntu Desktop para DHCP,DNS, IceCast2, MySQL configurado y LDAP Manager.
+# 4.Technologies to be used:
+Ubuntu Desktop for DHCP,DNS, IceCast2, MySQL setting up y LDAP Manager.
 
-Windows 10 para comprobar a nivel de usuario y/o diferentes roles
+Windows 10 to test at user level and/or different roles
 
-Python para automatizar diferentes tareas diarias
+Python to automatize dailies tasks
 
-Dichas máquinas virtuales corridas en un VirtualBox
+These virtual machines running on a VirtualBox
 
-WordPress en la Red para alojar la página web y llevarla al exterior
+WordPress on the Web to host the website and take it public to the world
 
-# 5.Objetivos del proyecto.
-Objetivo es crear una radio online escuchable para todo el mundo y una página web con contenido de música.
-
-# 6.Esquema del modelo relacional 
+# 5.Project objectives.
+The objective is to create an online radio station that can be listened to by everyone and a website with music content.
+# 6.Schema of the relational model 
 
 
 
 <img width="493" alt="Modelo Relacional" src="https://github.com/MikelArias/TFC40ASIRPALES/assets/115534269/a59cbb0b-99c0-442a-8518-25fc8a580cdb">
 
 
-# 12. Bitácora de tareas realizadas donde se indique la fecha en que se completó cada una de ellas y qué miembro del grupo la llevó a cabo
+# 12. Logbook of tasks performed indicating the date each task was completed and which member of the group carried it out.
 
-- Versión 1.0 24/4/2024
+- Version 1.0 24/4/2024
 
-    Creación del Documento (Mikel)
+    Document Creation (Mikel)
 
-    Creación de la Máquina Ubuntu Desktop (Servidor) (Mikel)
+    Ubuntu Desktop (Server) Machine Creation (Mikel)
 
-    Instalación DHCP (Adrián)
+    DHCP Installation (Adrian)
 
-    Instalación DNS  (Adrián)
+    DNS Installation (Adrian)
 
-- Versión 2.0 08/05/2024
+- Version 2.0 08/05/2024
 
-    Instalación Icecast (Adrián)
+    Icecast Installation (Adrian)
 
-    Configuración Icecast (Mikel)
+    Icecast Configuration (Mikel)
 
-    Hacer la radio pública (Mikel)
+    Making the radio public (Mikel)
 
-- Versión 3.0 21/05/2024
+- Version 3.0 05/21/2024
 
-    Instalación Wordpress 
+    Wordpress Installation 
 
-    Instalación MariaDB
+    MariaDB Installation
 
-    Creación de Usuarios en Wordpress Server para uso laboral
+    Creation of Users in Wordpress Server for work use
 
-    Instalación LDAP Manager en el servidor Ubuntu
+    LDAP Manager installation on Ubuntu server
 
-- Versión 4.0 7/6/2024
-    Personalización de la página web
+- Version 4.0 7/6/2024
+    Customization of the website
   
-    Página web puesta pública
+    Website made public
   
-    Finalización de la documentación
+    Finalization of documentation
 
-- Versión 5.0 9/6/2024
+- Version 5.0 9/6/2024
   
-     Realización de la presentación
+     Presentation of the presentation
   
-     Realización del plan de seguridad
+     Realization of the security plan
 
-     Realización de pruebas finales
+     Realization of final tests
 
-     Creación del script de python QoL
+     Creation of the QoL python script
 
-# 13. Bibliografía utilizada 
+# 13. Bibliography used
 
-- Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
+- Documentation used during the course: IceCast2, DNS, DHCP, WordPress, MySQL
             https://portforward.com/icecast/
             https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6
 
-- Script Usado para instalar Wordpress de nuestro compañero Rafael
+- Script used to install Wordpress by our colleague Rafael
     https://github.com/r4f4soft/autowordpress
 
-# Documentación del proyecto
+# Project documentation
 
 https://github.com/MikelArias/TFC40ASIRPALES/blob/main/40%20Asirpales%20documentcion.pdf
 
-# Video de la revisión
+# Video of the review
 https://youtu.be/A-Q4L9_P5ZQ
 
 
 
 
-# Máquina exportada FINAL en .ova
+# FINAL exported machine in .ova
 https://drive.google.com/file/d/1Y7vqxbbRoH7N_IsLO2jen9oaoj5vf7Gi/view?usp=drive_link
 
