@@ -98,6 +98,6 @@ https://youtu.be/A-Q4L9_P5ZQ
 
 
 
-# Máquina exportada en .ova
-https://drive.google.com/file/d/1Y7vqxbbRoH7N_IsLO2jen9oaoj5vf7Gi/view?usp=sharing
+# Máquina exportada FINAL en .ova
+https://drive.google.com/file/d/1Y7vqxbbRoH7N_IsLO2jen9oaoj5vf7Gi/view?usp=drive_link
 
