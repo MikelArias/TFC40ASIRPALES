@@ -64,14 +64,21 @@ Objetivo es crear una radio online escuchable para todo el mundo y una página w
 
 - Versión 4.0 7/6/2024
     Personalización de la página web
-    Página web puesta pública 
+  
+    Página web puesta pública
+  
     Finalización de la documentación
 
 - Versión 5.0 9/6/2024
+  
      Realización de la presentación
+  
      Realización del plan de seguridad
+
      Realización de pruebas finales
+
      Creación del script de python QoL
+
 # 13. Bibliografía utilizada 
 
 - Documentación usada durante el curso: IceCast2, DNS, DHCP, WordPress, MySQL
@@ -80,6 +87,10 @@ Objetivo es crear una radio online escuchable para todo el mundo y una página w
 
 - Script Usado para instalar Wordpress de nuestro compañero Rafael
     https://github.com/r4f4soft/autowordpress
+
+# Documentación del proyecto
+
+https://github.com/MikelArias/TFC40ASIRPALES/blob/main/40%20Asirpales%20documentcion.pdf
 
 # Video de la revisión
 https://youtu.be/A-Q4L9_P5ZQ
