@@ -81,15 +81,15 @@ The objective is to create an online radio station that can be listened to by ev
 # 13. Bibliography used
 
 - Documentation used during the course: IceCast2, DNS, DHCP, WordPress, MySQL
-           [Puertos abiertos en el router para salida de la radio](https://portforward.com/icecast/)
-            [Instrucciones](https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6)
+           [Port Fordwarding](https://portforward.com/icecast/)
+            [Instructions](https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6)
 
 - Script used to install Wordpress by our colleague Rafael
     [Script](https://github.com/r4f4soft/autowordpress)
 
 # Project documentation
 
-[Documentacion](https://github.com/MikelArias/TFC40ASIRPALES/blob/main/40%20Asirpales%20documentcion.pdf)
+[Documentation](https://github.com/MikelArias/TFC40ASIRPALES/blob/main/40%20Asirpales%20documentcion.pdf)
 
 # Video of the review
 [Video](https://youtu.be/A-Q4L9_P5ZQ)
@@ -98,7 +98,7 @@ The objective is to create an online radio station that can be listened to by ev
 
 
 # FINAL exported machine in .ova
-[Máquina Virtual](https://drive.google.com/file/d/1Y7vqxbbRoH7N_IsLO2jen9oaoj5vf7Gi/view?usp=drive_link)
+[Virtual Machine](https://drive.google.com/file/d/1Y7vqxbbRoH7N_IsLO2jen9oaoj5vf7Gi/view?usp=drive_link)
 
 
 # PLAN DE SEGURIDAD
