@@ -81,11 +81,11 @@ The objective is to create an online radio station that can be listened to by ev
 # 13. Bibliography used
 
 - Documentation used during the course: IceCast2, DNS, DHCP, WordPress, MySQL
-            https://portforward.com/icecast/
-            https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6
+           [Puertos abiertos en el router para salida de la radio](https://portforward.com/icecast/)
+            [Instrucciones](https://icecast.imux.net/viewtopic.php?t=7851&sid=1b57a0628be87d159cda32838ea269a6)
 
 - Script used to install Wordpress by our colleague Rafael
-    https://github.com/r4f4soft/autowordpress
+    [Script](https://github.com/r4f4soft/autowordpress)
 
 # Project documentation
 
