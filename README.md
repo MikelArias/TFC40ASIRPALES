@@ -89,14 +89,19 @@ The objective is to create an online radio station that can be listened to by ev
 
 # Project documentation
 
-https://github.com/MikelArias/TFC40ASIRPALES/blob/main/40%20Asirpales%20documentcion.pdf
+[Documentacion](https://github.com/MikelArias/TFC40ASIRPALES/blob/main/40%20Asirpales%20documentcion.pdf)
 
 # Video of the review
-https://youtu.be/A-Q4L9_P5ZQ
+[Video](https://youtu.be/A-Q4L9_P5ZQ)
 
 
 
 
 # FINAL exported machine in .ova
-https://drive.google.com/file/d/1Y7vqxbbRoH7N_IsLO2jen9oaoj5vf7Gi/view?usp=drive_link
+[Máquina Virtual](https://drive.google.com/file/d/1Y7vqxbbRoH7N_IsLO2jen9oaoj5vf7Gi/view?usp=drive_link)
+
+
+# PLAN DE SEGURIDAD
+
+[Plan de Seguridad](https://github.com/MikelArias/TFC40ASIRPALES/blob/main/PLAN%20DE%20SEGURIDAD%2040%20ASIRPALES.pdf)
 
