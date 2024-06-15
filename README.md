@@ -9,7 +9,7 @@ Los 40 Asirpales
 By Mikel Arias Montiel and Adrián Suárez Medina
 
 # 3.Project Description
-It consists of a project that will host a radio created with IceCast2, A database where the songs in our list will be added and displayed on a Wordpress web page, to add songs we will use PHP with a user interface and connection to the database, we will also make a security plan to increase the security of our site administration, database security etc..
+It consists of a project that will host a radio created with IceCast2, A database where the songs in our list will be added and displayed on a Wordpress web page, we will also make a security plan to increase the security of our site administration, database security etc..
 
 # 4.Technologies to be used:
 Ubuntu Desktop for DHCP,DNS, IceCast2, MySQL setting up y LDAP Manager.
