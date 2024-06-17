@@ -105,3 +105,5 @@ The objective is to create an online radio station that can be listened to by ev
 
 [Plan de Seguridad](https://github.com/MikelArias/TFC40ASIRPALES/blob/main/PLAN%20SEGURIDAD.pdf)
 
+# Video
+[Video final](https://drive.google.com/file/d/11blo0K4SSbqGyxg5mFy3lt01qJRcT19t/view?usp=sharing)
